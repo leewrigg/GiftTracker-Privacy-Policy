@@ -53,6 +53,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 **Camera Permissions**
+
 Images are selected from your gallery using third-party open-source libraries and are loaded using third-party open-source libraries. This app may request access to the camera on your device. Should you choose to accept this request, any images taken will not be collected or stored by GiftTracker.
 
 **Children’s Privacy**
